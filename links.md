@@ -20,6 +20,8 @@ Scheduler
 
 -----
 http://www.dhtmlx.com/blog/dhtmlxscheduler-for-net-mvc/
+
 https://documentation.devexpress.com/#AspNet/CustomDocument11675
+
 http://www.mikesdotnetting.com/article/254/scheduled-tasks-in-asp-net-with-quartz-net
 -----
