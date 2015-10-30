@@ -25,4 +25,6 @@ https://documentation.devexpress.com/#AspNet/CustomDocument11675
 
 http://www.mikesdotnetting.com/article/254/scheduled-tasks-in-asp-net-with-quartz-net
 
+https://lostechies.com/jimmybogard/2010/06/17/automating-scheduled-tasks/
+
 -----
