@@ -15,3 +15,11 @@ http://www.codeproject.com/Articles/866143/Learn-MVC-step-by-step-in-days-Day#In
 
 MVC-2
 http://www.codeproject.com/Articles/207797/Learn-MVC-Model-View-Controller-step-by-step-in
+
+Scheduler
+
+-----
+http://www.dhtmlx.com/blog/dhtmlxscheduler-for-net-mvc/
+https://documentation.devexpress.com/#AspNet/CustomDocument11675
+http://www.mikesdotnetting.com/article/254/scheduled-tasks-in-asp-net-with-quartz-net
+-----
