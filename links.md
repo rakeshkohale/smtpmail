@@ -39,3 +39,6 @@ http://www.mikesdotnetting.com/article/254/scheduled-tasks-in-asp-net-with-quart
 https://lostechies.com/jimmybogard/2010/06/17/automating-scheduled-tasks/
 
 -----
+SQL
+
+select distinct object_name(id) from syscomments where [text] like '%mst_member_dtls%liability_count%' order by 1
