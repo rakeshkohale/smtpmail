@@ -27,6 +27,12 @@ http://www.codeproject.com/Articles/866143/Learn-MVC-step-by-step-in-days-Day#In
 MVC-2
 http://www.codeproject.com/Articles/207797/Learn-MVC-Model-View-Controller-step-by-step-in
 
+
+MVC LEARNING
+
+http://www.asp.net/aspnet/overview/making-websites-with-aspnet/making-websites-with-aspnet
+
+------------------------------------------------------------
 Scheduler
 
 -----
