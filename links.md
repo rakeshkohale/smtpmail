@@ -32,6 +32,8 @@ MVC LEARNING
 
 http://www.asp.net/aspnet/overview/making-websites-with-aspnet/making-websites-with-aspnet
 
+http://www.codeproject.com/Articles/575397/An-Absolute-Beginners-Tutorial-on-ASP-NET-MVC-for
+
 ------------------------------------------------------------
 Scheduler
 
